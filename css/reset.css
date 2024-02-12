@@ -161,7 +161,7 @@ body {
   width: 100vw;
   height: 10vh;
   background-color: var(--negro);
-  padding: 1.5em;
+  padding: 1em;
   display: flex;
   flex-flow: row wrap;
   justify-content: space-between;
